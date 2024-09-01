@@ -24,10 +24,6 @@ Feel free to ask me anything.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-## Currently working on
-
-Full refactor of my [toy project](https://github.com/raik199x/Butcher-circus-randomizer/tree/Major-Code-Refactoring)
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=raik199x&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raik199x&theme=tokyonight&hide_border=false)<br/>
